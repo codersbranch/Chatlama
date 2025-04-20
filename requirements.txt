@@ -1,0 +1,11 @@
+streamlit
+requests
+python-docx
+ollama
+psutil
+platformdirs
+langchain
+sentence-transformers
+faiss-cpu
+docx2txt
+langchain-community

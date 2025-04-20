@@ -36,8 +36,8 @@ Make sure you have the following before running the app:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/chatlama.git
-cd chatlama
+git clone https://github.com/codersbranch/Chatlama.git
+cd Chatlama
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
